@@ -1,1 +1,1 @@
-# online_stock_price_prediction
+It's demo version and is under development
